@@ -8,6 +8,10 @@
 - [Overview of the Red Hat Enterprise Linux for SAP Solutions subscription](https://access.redhat.com/solutions/3082481) - January 2023
 - [Overview of the Red Hat Enterprise Linux for SAP Applications subscription](https://access.redhat.com/solutions/34169) - February 2023
 
+### Red Hat Enterprise Linux Life Cycle and Subscription
+- [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
+- [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
+
 ### Automation
 - [Red Hat Enterprise Linux System Roles for SAP](https://access.redhat.com/articles/4488731)
 
