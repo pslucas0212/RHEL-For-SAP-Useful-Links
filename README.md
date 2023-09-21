@@ -1,2 +1,1 @@
-# RHEL-For-SAP-Useful-Links
-Red Hat Entierprise Linux for SAP
+# Red Hat Entierprise Linux for SAP
