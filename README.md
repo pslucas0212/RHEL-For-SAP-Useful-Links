@@ -23,3 +23,6 @@
 
 ### Smart Management
 - [Red Hat Smart Management for SAP](https://www.redhat.com/en/blog/red-hat-smart-management-sap)
+
+### RHEL for SAP Upgrade
+- [How to in-place upgrade SAP environments from RHEL 7 to RHEL 8](https://access.redhat.com/solutions/5154031#preparing-non-cloud-or-byos-cloud-systems)
