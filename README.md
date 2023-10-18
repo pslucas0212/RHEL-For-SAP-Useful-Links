@@ -27,3 +27,7 @@
 ### RHEL for SAP Upgrade
 - [How to in-place upgrade SAP environments from RHEL 7 to RHEL 8](https://access.redhat.com/solutions/5154031#preparing-non-cloud-or-byos-cloud-systems)
 - [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361) - See RHEL for SAP entries for additional information.
+
+
+## Cloud
+- [Red Hat Enterprise Linux for SAP Offerings on Microsoft Azure FAQ](https://access.redhat.com/articles/5456301)
