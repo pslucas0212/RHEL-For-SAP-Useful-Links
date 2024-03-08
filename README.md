@@ -29,6 +29,7 @@
 - [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361) - See RHEL for SAP entries for additional information.
 
 ### Clustering
+- [High availability for SAP on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/high-availability-sap-red-hat-enterprise-linux)
 - [Configuring SAP NetWeaver ASCS/ERS ENSA1 with Standalone Resources in RHEL 7.5+ and RHEL 8](https://access.redhat.com/articles/3569681)
 - [Configuring SAP S/4HANA ASCS/ERS with Standalone Enqueue Server 2 (ENSA2) in Pacemaker](https://access.redhat.com/articles/3974941)
 - [Configuring a Cost-Optimized SAP S/4HANA HA cluster (HANA System Replication +ENSA2) using the RHEL HA Add-On](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_sap_solutions/8/pdf/configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication_ensa2_using_the_rhel_ha_add-on/red_hat_enterprise_linux_for_sap_solutions-8-configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication__ensa2__using_the_rhel_ha_add-on-en-us.pdf) - PDF doc
