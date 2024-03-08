@@ -35,6 +35,9 @@
 - [How to configure a stonith device using agent fence_vmware_rest in a RHEL 7, 8 or 9 High Availability cluster with pacemaker?](https://access.redhat.com/solutions/3510461)
 - [How to configure VMware fencing using fence_vmware_soap in Red Hat Enterprise Linux High Availability Add On?](https://access.redhat.com/solutions/68064)
 - [Using SCSI Persistent Reservation Fencing (fence_scsi) with pacemaker in a Red Hat High Availability cluster](https://access.redhat.com/articles/530533)
+- [Support Policies for RHEL High Availability Clusters - fence_scsi and fence_mpath](https://access.redhat.com/articles/3078811)
+- [fence_scsi on VMware vCenter / ESXi fails when a cluster node is shutdown from the host in RHEL 5 or 6 or 7](https://access.redhat.com/solutions/457703)
+  
 
 ## Cloud
 - [Red Hat Enterprise Linux for SAP Offerings on Microsoft Azure FAQ](https://access.redhat.com/articles/5456301)
