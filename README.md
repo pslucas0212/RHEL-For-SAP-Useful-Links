@@ -30,7 +30,8 @@
 
 ### Clustering
 - [Configuring SAP NetWeaver ASCS/ERS ENSA1 with Standalone Resources in RHEL 7.5+ and RHEL 8](https://access.redhat.com/articles/3569681)
-- [Configuring SAP S/4HANA ASCS/ERS with Standalone Enqueue Server 2 (ENSA2) in Pacemaker](https://access.redhat.com/articles/3974941
+- [Configuring SAP S/4HANA ASCS/ERS with Standalone Enqueue Server 2 (ENSA2) in Pacemaker](https://access.redhat.com/articles/3974941)
+- [Configuring a Cost-Optimized SAP S/4HANA HA cluster (HANA System Replication +ENSA2) using the RHEL HA Add-On](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_sap_solutions/8/pdf/configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication_ensa2_using_the_rhel_ha_add-on/red_hat_enterprise_linux_for_sap_solutions-8-configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication__ensa2__using_the_rhel_ha_add-on-en-us.pdf) - PDF doc
 - [How do I configure a stonith device using agent fence_vmware_soap in a Red Hat High Availability cluster with pacemaker?](https://access.redhat.com/solutions/917813)
 - [How to configure a stonith device using agent fence_vmware_rest in a RHEL 7, 8 or 9 High Availability cluster with pacemaker?](https://access.redhat.com/solutions/3510461)
 - [How to configure VMware fencing using fence_vmware_soap in Red Hat Enterprise Linux High Availability Add On?](https://access.redhat.com/solutions/68064)
