@@ -40,6 +40,7 @@
 - [Using SCSI Persistent Reservation Fencing (fence_scsi) with pacemaker in a Red Hat High Availability cluster](https://access.redhat.com/articles/530533)
 - [Support Policies for RHEL High Availability Clusters - fence_scsi and fence_mpath](https://access.redhat.com/articles/3078811)
 - [fence_scsi on VMware vCenter / ESXi fails when a cluster node is shutdown from the host in RHEL 5 or 6 or 7](https://access.redhat.com/solutions/457703)
+- [How can I diagnose fence_vmware_soap failures in RHEL 5, 6, 7, 8 or 9?](https://access.redhat.com/solutions/473603)
   
 
 ## Cloud
