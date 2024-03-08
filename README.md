@@ -32,7 +32,9 @@
 - [Configuring SAP NetWeaver ASCS/ERS ENSA1 with Standalone Resources in RHEL 7.5+ and RHEL 8](https://access.redhat.com/articles/3569681)
 - [Configuring SAP S/4HANA ASCS/ERS with Standalone Enqueue Server 2 (ENSA2) in Pacemaker](https://access.redhat.com/articles/3974941
 - [How do I configure a stonith device using agent fence_vmware_soap in a Red Hat High Availability cluster with pacemaker?](https://access.redhat.com/solutions/917813)
+- [How to configure a stonith device using agent fence_vmware_rest in a RHEL 7, 8 or 9 High Availability cluster with pacemaker?](https://access.redhat.com/solutions/3510461)
 - [How to configure VMware fencing using fence_vmware_soap in Red Hat Enterprise Linux High Availability Add On?](https://access.redhat.com/solutions/68064)
+- [Using SCSI Persistent Reservation Fencing (fence_scsi) with pacemaker in a Red Hat High Availability cluster](https://access.redhat.com/articles/530533)
 
 ## Cloud
 - [Red Hat Enterprise Linux for SAP Offerings on Microsoft Azure FAQ](https://access.redhat.com/articles/5456301)
