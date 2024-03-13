@@ -34,6 +34,9 @@
 - [Configuring SAP NetWeaver ASCS/ERS ENSA1 with Standalone Resources in RHEL 7.5+ and RHEL 8](https://access.redhat.com/articles/3569681)
 - [Configuring SAP S/4HANA ASCS/ERS with Standalone Enqueue Server 2 (ENSA2) in Pacemaker](https://access.redhat.com/articles/3974941)
 - [Configuring a Cost-Optimized SAP S/4HANA HA cluster (HANA System Replication +ENSA2) using the RHEL HA Add-On](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_sap_solutions/8/pdf/configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication_ensa2_using_the_rhel_ha_add-on/red_hat_enterprise_linux_for_sap_solutions-8-configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication__ensa2__using_the_rhel_ha_add-on-en-us.pdf) - PDF doc
+- [Design Guidance for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3349791)
+- [Exploring RHEL High Availability's Components - corosync-qdevice and corosync-qnetd](https://access.redhat.com/articles/2824121)
+- [Design Guidance for RHEL High Availability Clusters - Considerations with qdevice Quorum Arbitration](https://access.redhat.com/articles/3135481)
 - [How do I configure a stonith device using agent fence_vmware_soap in a Red Hat High Availability cluster with pacemaker?](https://access.redhat.com/solutions/917813)
 - [How to configure a stonith device using agent fence_vmware_rest in a RHEL 7, 8 or 9 High Availability cluster with pacemaker?](https://access.redhat.com/solutions/3510461)
 - [How to configure VMware fencing using fence_vmware_soap in Red Hat Enterprise Linux High Availability Add On?](https://access.redhat.com/solutions/68064)
@@ -42,7 +45,9 @@
 - [Can I add or remove devices to a fence_scsi or fence_mpath device without restarting the cluster or all the resources?](https://access.redhat.com/solutions/4526971)
 - [fence_scsi device parameter update (addition/deletion) causes restart of all resources](https://access.redhat.com/solutions/3499471)
 - [Unfence operation fails with fence_scsi when 'devices' parameter is undefined and cluster is configured with lvmlockd in RHEL 8 or 9](https://access.redhat.com/solutions/7010208)
+- [Support Policies for RHEL High Availability Clusters - sbd and fence_sbd](https://access.redhat.com/articles/2800691)
 - [Support Policies for RHEL High Availability Clusters - fence_scsi and fence_mpath](https://access.redhat.com/articles/3078811)
+- [What user permissions/roles are required for the VMware vCenter user account to perform fence action using Vmware fencing agents?](https://access.redhat.com/solutions/82333)
 - [fence_scsi on VMware vCenter / ESXi fails when a cluster node is shutdown from the host in RHEL 5 or 6 or 7](https://access.redhat.com/solutions/457703)
 - [How can I diagnose fence_vmware_soap failures in RHEL 5, 6, 7, 8 or 9?](https://access.redhat.com/solutions/473603)
   
