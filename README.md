@@ -28,12 +28,14 @@
 - [How to in-place upgrade SAP environments from RHEL 7 to RHEL 8](https://access.redhat.com/solutions/5154031#preparing-non-cloud-or-byos-cloud-systems)
 - [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361) - See RHEL for SAP entries for additional information.
 
-### Clustering
+### RHEL for Linux SAP Clustering
 - [High availability for SAP on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/high-availability-sap-red-hat-enterprise-linux)
 - [Configuring HA clusters to manage SAP NetWeaver or SAP S/4HANA Application server instances using the RHEL HA Add-On - RHEL 9 for SAP Solutions](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_sap_solutions/9/pdf/configuring_ha_clusters_to_manage_sap_netweaver_or_sap_s4hana_application_server_instances_using_the_rhel_ha_add-on/red_hat_enterprise_linux_for_sap_solutions-9-configuring_ha_clusters_to_manage_sap_netweaver_or_sap_s4hana_application_server_instances_using_the_rhel_ha_add-on-en-us.pdf) - PDF Doc
 - [Configuring SAP NetWeaver ASCS/ERS ENSA1 with Standalone Resources in RHEL 7.5+ and RHEL 8](https://access.redhat.com/articles/3569681)
 - [Configuring SAP S/4HANA ASCS/ERS with Standalone Enqueue Server 2 (ENSA2) in Pacemaker](https://access.redhat.com/articles/3974941)
 - [Configuring a Cost-Optimized SAP S/4HANA HA cluster (HANA System Replication +ENSA2) using the RHEL HA Add-On](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_sap_solutions/8/pdf/configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication_ensa2_using_the_rhel_ha_add-on/red_hat_enterprise_linux_for_sap_solutions-8-configuring_a_cost-optimized_sap_s4hana_ha_cluster_hana_system_replication__ensa2__using_the_rhel_ha_add-on-en-us.pdf) - PDF doc
+
+### RHEL Clustering Topics
 - [Design Guidance for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3349791)
 - [Exploring RHEL High Availability's Components - corosync-qdevice and corosync-qnetd](https://access.redhat.com/articles/2824121)
 - [Design Guidance for RHEL High Availability Clusters - Considerations with qdevice Quorum Arbitration](https://access.redhat.com/articles/3135481)
