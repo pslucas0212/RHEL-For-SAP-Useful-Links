@@ -62,6 +62,7 @@
 - [Support Policies for RHEL High Availability Clusters - sbd and fence_sbd](https://access.redhat.com/articles/2800691)
 - [Support Policies for RHEL High Availability Clusters - fence_scsi and fence_mpath](https://access.redhat.com/articles/3078811)
 - [Support Policies for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3131271)
+- [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
 
 ## Cloud
 - [Red Hat Enterprise Linux for SAP Offerings on Microsoft Azure FAQ](https://access.redhat.com/articles/5456301)
