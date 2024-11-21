@@ -67,3 +67,8 @@
 ## Cloud
 - [Red Hat Enterprise Linux for SAP Offerings on Microsoft Azure FAQ](https://access.redhat.com/articles/5456301)
 - [Red Hat Enterprise Linux for SAP offerings on Amazon Web Services FAQ](https://access.redhat.com/articles/3671571)
+
+## OpenShift Virtualization
+- [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
+- [Deploying SAP Workloads with OpenShift Virtualization](https://access.redhat.com/articles/7048369)
+- [Does OpenShift Virtualization support SAP HANA?](https://access.redhat.com/solutions/6996642)
