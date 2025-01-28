@@ -41,7 +41,7 @@
 - [Exploring RHEL High Availability's Components - corosync-qdevice and corosync-qnetd](https://access.redhat.com/articles/2824121)
 - [Design Guidance for RHEL High Availability Clusters - Considerations with qdevice Quorum Arbitration](https://access.redhat.com/articles/3135481)
 
-#### VMWare
+#### VMWare and Fencing with HA
 - [Automating SAP HANA Scale-Up System Replication using the RHEL HA Add-On](https://access.redhat.com/articles/3004101)
 - [How do I configure a stonith device using agent fence_vmware_soap in a Red Hat High Availability cluster with pacemaker?](https://access.redhat.com/solutions/917813)
 - [How to configure a stonith device using agent fence_vmware_rest in a RHEL 7, 8 or 9 High Availability cluster with pacemaker?](https://access.redhat.com/solutions/3510461)
