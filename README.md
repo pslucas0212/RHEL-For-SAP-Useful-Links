@@ -29,7 +29,6 @@
 - [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361) - See RHEL for SAP entries for additional information.
 
 ### RHEL for Linux SAP Clustering
-- [Pacemaker and STONITH Tuning for Fencing Agent (fence_vmware_soap & fence_vmware_rest) Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)
 - [High availability for SAP on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/high-availability-sap-red-hat-enterprise-linux)
 - [Configuring HA clusters to manage SAP NetWeaver or SAP S/4HANA Application server instances using the RHEL HA Add-On - RHEL 9 for SAP Solutions](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_sap_solutions/9/pdf/configuring_ha_clusters_to_manage_sap_netweaver_or_sap_s4hana_application_server_instances_using_the_rhel_ha_add-on/red_hat_enterprise_linux_for_sap_solutions-9-configuring_ha_clusters_to_manage_sap_netweaver_or_sap_s4hana_application_server_instances_using_the_rhel_ha_add-on-en-us.pdf) - PDF Doc
 - [Configuring SAP NetWeaver ASCS/ERS ENSA1 with Standalone Resources in RHEL 7.5+ and RHEL 8](https://access.redhat.com/articles/3569681)
@@ -43,6 +42,7 @@
 - [Design Guidance for RHEL High Availability Clusters - Considerations with qdevice Quorum Arbitration](https://access.redhat.com/articles/3135481)
 
 #### VMWare and Fencing with HA
+- [Pacemaker and STONITH Tuning for Fencing Agent (fence_vmware_soap & fence_vmware_rest) Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)
 - [Automating SAP HANA Scale-Up System Replication using the RHEL HA Add-On](https://access.redhat.com/articles/3004101)
 - [How do I configure a stonith device using agent fence_vmware_soap in a Red Hat High Availability cluster with pacemaker?](https://access.redhat.com/solutions/917813)
 - [How to configure a stonith device using agent fence_vmware_rest in a RHEL 7, 8 or 9 High Availability cluster with pacemaker?](https://access.redhat.com/solutions/3510461)
