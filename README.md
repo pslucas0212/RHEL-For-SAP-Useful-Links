@@ -42,6 +42,7 @@
 - [Design Guidance for RHEL High Availability Clusters - Considerations with qdevice Quorum Arbitration](https://access.redhat.com/articles/3135481)
 
 #### VMWare and Fencing with HA
+- [fence_vmware_soap/fence_vmware_rest fails with error 'Unable to connect/login to fencing device' in a RHEL High Availability cluster](https://access.redhat.com/solutions/1327053)
 - [Pacemaker and STONITH Tuning for Fencing Agent - fence_vmware_soap & fence_vmware_rest - Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)
 - [Automating SAP HANA Scale-Up System Replication using the RHEL HA Add-On](https://access.redhat.com/articles/3004101)
 - [How do I configure a stonith device using agent fence_vmware_soap in a Red Hat High Availability cluster with pacemaker?](https://access.redhat.com/solutions/917813)
